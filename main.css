@@ -1,0 +1,27 @@
+html, body{
+	height: 100%;
+}
+
+.sky {
+	height: 75%;
+	text-align: center;
+	position: relative;
+}
+
+.earth{
+	height: 25%;
+	background-color: black;
+}
+
+#penguin {
+	position: absolute;
+	bottom: 0;
+}
+
+#moon {
+	position: absolute;
+}
+
+.bird {
+	position: absolute;
+}
